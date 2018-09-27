@@ -1,0 +1,7 @@
+name: CoverXProjects-Store
+author: [CoverXProjects, LloydPlayzHD]
+version: 1.0
+main: eu.coverxprojects.store.Main
+commands:
+  store:
+    description: Gives you your store link [Customizeable in config]
